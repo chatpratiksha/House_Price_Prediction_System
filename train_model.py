@@ -18,8 +18,8 @@ from sklearn.metrics import (
 # 1. FILE PATHS
 # =========================================================
 
-DATASET_PATH = "dataset/house_price_dataset.csv"
-MODEL_DIR = "model"
+DATASET_PATH = "house_price_dataset.csv"
+MODEL_DIR = ""
 MODEL_PATH = os.path.join(MODEL_DIR, "house_price_model.pkl")
 
 
