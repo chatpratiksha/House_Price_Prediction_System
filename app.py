@@ -76,8 +76,8 @@ st.markdown("""
 # FILE PATHS
 # =========================================================
 
-MODEL_PATH = "model/house_price_model.pkl"
-DATASET_PATH = "dataset/house_price_dataset.csv"
+MODEL_PATH = "house_price_model.pkl"
+DATASET_PATH = "house_price_dataset.csv"
 
 
 # =========================================================
