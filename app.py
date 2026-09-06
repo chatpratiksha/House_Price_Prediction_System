@@ -685,6 +685,7 @@ elif st.session_state.page == "About Developer":
 
     project_info = pd.DataFrame({
         "Details": [
+            "Developer",
             "Project Name",
             "Domain",
             "Programming Language",
@@ -693,6 +694,7 @@ elif st.session_state.page == "About Developer":
             "Dataset"
         ],
         "Information": [
+            "Pratiksha Madhav Chat"
             "House Price Prediction System",
             "Artificial Intelligence / Machine Learning",
             "Python",
