@@ -694,7 +694,7 @@ elif st.session_state.page == "About Developer":
             "Dataset"
         ],
         "Information": [
-            "Pratiksha Madhav Chat"
+            "Pratiksha Madhav Chat",
             "House Price Prediction System",
             "Artificial Intelligence / Machine Learning",
             "Python",
